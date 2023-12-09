@@ -5,3 +5,5 @@ During my second task at CodeClause for my internship, I successfully developed 
 You can check out the live demo of the Todo List web app [here](https://harsh160311.github.io/Codeclause_stopwatch_and_timer/) 
 
 ## screenshot
+![Screenshot_2023-12-09-22-00-08-780_com android chrome](https://github.com/harsh160311/Codeclause_stopwatch_and_timer/assets/82533066/4d66bf26-0e33-4b61-91d9-03e6d815e56f)
+
